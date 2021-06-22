@@ -24,7 +24,7 @@ road type, time, age of driver, age of the vehicle, Driver IMD deprivation, spee
 
 ## Summary of Findings
 
->In the exploration, I found that The distribution of drivers' ages involved in accidents clumped up between 15-35. And people from 15 to 45 have a higher percentage of serious accidents than others. Also, in Great Britain, speed limit and type of road have a strong influence on the seriousness of accidents rate. And slip roads and dual carriageways are more deadly within high-speed driving. 
+>In the exploration, I found that The distribution of drivers' ages involved in accidents clumped up between 15-35. And people from 15 to 45 have a higher percentage of serious accidents than others. Also, in Great Britain, speed limit and type of road have a strong influence on the seriousness of accidents rate. So slip roads and dual carriageways are more deadly within high-speed driving. 
 
 >interestingly I found that even though the total annual accident during the investigation period was mostly declined, from 2011 to 2014 There was a slight spike in the percentage of serious accidents than slight accidents. 
 
