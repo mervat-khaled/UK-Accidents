@@ -24,10 +24,15 @@ road type, time, age of driver, age of the vehicle, Driver IMD deprivation, spee
 
 ## Summary of Findings
 
->In the exploration, I found that The distribution of drivers' ages involved in accidents clumped up between 15-35. And people from 15 to 45 have a higher percentage of serious accidents than others. Also, in Great Britain, speed limit and type of road have a strong influence on the seriousness of accidents rate. So slip roads and dual carriageways are more deadly within high-speed driving. 
+>In the exploration, I found that The distribution of drivers' ages involved in accidents clumped up between 15-35. And people from 15 to 45 have a higher percentage of serious accidents than others.
+>![age_of_driver](https://user-images.githubusercontent.com/62367518/147986661-bae9a34a-165e-4a01-bfe6-81ca5ebe109c.png)
+
+> Also, in Great Britain, speed limit and type of road have a strong influence on the seriousness of accidents rate. So slip roads and dual carriageways are more deadly within high-speed driving. 
+> ![accidents_by_speed](https://user-images.githubusercontent.com/62367518/147986778-d71c881e-148f-4f43-b4a0-e8a7b237d4be.png)
 
 >interestingly I found that even though the total annual accident during the investigation period was mostly declined, from 2011 to 2014 There was a slight spike in the percentage of serious accidents than slight accidents. 
 
 ## Key Insights for Presentation
 
 > It seems that people without pressure do not get involved in accidents, that's why weekends has The minimum occurrence of accidents compared to other weekdays.
+![accidents_by_days](https://user-images.githubusercontent.com/62367518/147986845-59f5b28f-d256-4899-8f70-c3943535e8e5.png)
